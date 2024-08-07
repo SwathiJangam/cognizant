@@ -1,0 +1,48 @@
+[33mcommit c602a821dbba4b5685a4ad1d9209c9a97fb48b3e[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: SwathiJangam <pearljangam@gmail.com>
+Date:   Wed Jul 31 14:23:02 2024 +0530
+
+    Add Commit
+
+[33mcommit 1fc232c5201ec53d45e601c0a45adf27fc38b2ad[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmy-feature[m[33m)[m
+Author: SwathiJangam <pearljangam@gmail.com>
+Date:   Wed Jul 31 00:24:13 2024 +0530
+
+    Commit success for ex6
+
+[33mcommit 9933b2483fd8ba337b7c924ba476c8d2cbd38c4f[m
+Author: SwathiJangam <pearljangam@gmail.com>
+Date:   Wed Jul 31 00:24:02 2024 +0530
+
+    Commit success for ex4
+
+[33mcommit dd7ab90f121cd7604008ef4161346135da340571[m
+Author: SwathiJangam <pearljangam@gmail.com>
+Date:   Wed Jul 31 00:23:50 2024 +0530
+
+    Commit success for ex3
+
+[33mcommit 9f46b42ff3bcce07fcea7f2d4d6b9280a277a99c[m
+Merge: 5ea4ec7 c1ac84c
+Author: SwathiJangam <pearljangam@gmail.com>
+Date:   Wed Jul 31 00:10:57 2024 +0530
+
+    Commit success
+
+[33mcommit 5ea4ec7d776135b8329029fe778039dfd8f0104e[m
+Author: SwathiJangam <pearljangam@gmail.com>
+Date:   Tue Jul 30 23:52:16 2024 +0530
+
+    Updated submodule exercise1
+
+[33mcommit 710e15f1a1f64293dd04c60907a6b3ca7ba69dd6[m
+Author: SwathiJangam <pearljangam@gmail.com>
+Date:   Tue Jul 30 23:39:25 2024 +0530
+
+    first commit
+
+[33mcommit c1ac84c5daea771a1b1e53ba3f0af817368b8b82[m
+Author: Jangam Swathi <137715746+SwathiJangam@users.noreply.github.com>
+Date:   Tue Jul 30 22:31:24 2024 +0530
+
+    Initial commit
